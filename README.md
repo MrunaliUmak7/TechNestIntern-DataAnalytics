@@ -12,6 +12,7 @@ It includes real-world data analysis, visualization and dashboard creation.
 - Jupyter notebook containing clear visualizations and explanations: **Exploratory_Data_Analysis_on_Dataset.ipynb**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
 - Data Cleaning: **Cleaned Dataset.csv**
+- Summary: Sales trends,seasonal patterns,KPI(total sales,revenue,AOV)
 
 ##  Task2: Customer Segmentation using Clustering(K-Means)
 *Tools Used:*  
@@ -21,6 +22,7 @@ It includes real-world data analysis, visualization and dashboard creation.
 *Deliverable:*  
 - Jupyter notebook containing clear visualizations and cluster plots: **Customer_Segmentation_using_Clustering.ipynb**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
+- Summary: K-means Clustering to identify customers types and strategy suggestions.
 
 ## Author
 Mrunali Umak
