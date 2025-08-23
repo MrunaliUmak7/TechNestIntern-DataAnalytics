@@ -14,7 +14,7 @@ This repository contains my submissions for the TechNest Data Analytics Internsh
 - Jupyter Notebook
 
 *Deliverable:*  
-- Jupyter notebook containing clear visualizations and explanations: **Retail_Sales_Analysis.ipynb**
+- Jupyter notebook containing clear visualizations and explanations: **Exploratory_Data_Analysis_on_Dataset.ipynb**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
 
 ## Key KPIs Covered
@@ -23,7 +23,7 @@ This repository contains my submissions for the TechNest Data Analytics Internsh
 - Revenue per Category
 - Average Order Value
 
-## Charts Contains
+## Graphs Contains
 
 -Customer Age Distribution
 -Total Sales per Month
