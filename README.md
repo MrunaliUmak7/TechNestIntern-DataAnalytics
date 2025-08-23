@@ -15,7 +15,7 @@ It includes real-world data analysis, visualization and dashboard creation.
 
 ##  Task2: Customer Segmentation using Clustering(K-Means)
 *Tools Used:*  
-- Python (pandas, matplotlib, seaborn,skicit-learn)
+- Python (pandas, matplotlib, seaborn, skicit-learn)
 - Jupyter Notebook
   
 *Deliverable:*  
