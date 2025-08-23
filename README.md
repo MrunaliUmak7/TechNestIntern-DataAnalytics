@@ -1,17 +1,36 @@
-# TechNestIntern Data Analytics Internship Tasks
+# Technest Data Analytics Internship
 
-This repository contains Data Analytics Tasks for TechNest Internship.
+This repository contains my submissions for the TechNest Data Analytics Internship program. All analyses are based on the provided **Retail Sales Analysis dataset.csv**.
 
-## File included:
+##  Task 1: Exploratory Data Analysis (EDA) on Retail Dataset
 
-- **road accident dashboard.xlsx** → Contains clean data, primary and secondary KPIs, Excel dashboard for visualizing road accident data.
-- **README.md** → This file,describing the task.
+*Objective:*
+- Understand and summarize the structure of the raw retail sales data.
+- Identify sales trends, patterns, and seasonality using graphs.
+- Present key KPIs: total sales, revenue per category, and average order value.
 
-## Description:
+*Tools Used:*  
+- Python (pandas, matplotlib, seaborn)
+- Jupyter Notebook
 
-This task analyzes road accident trends and visualizes them using Excel charts and dashboards.
+*Deliverable:*  
+- Jupyter notebook containing clear visualizations and explanations: **Exploratory_Data_Analysis_on_Dataset.ipynb**
+- Dataset Used: **Retail Sales Analysis dataset.csv**
 
-## Author:
+## Key KPIs Covered
 
+- Total Sales
+- Revenue per Category
+- Average Order Value
+
+## Graphs Contains
+
+-Customer Age Distribution
+-Total Sales per Month
+-Total Sales per Category
+-Seasonal Sales Patterns
+
+## Author
 Mrunali Umak
+
 
