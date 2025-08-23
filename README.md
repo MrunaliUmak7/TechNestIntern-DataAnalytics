@@ -7,6 +7,7 @@ It includes real-world data analysis, visualization and dashboard creation.
 *Tools Used:*  
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
+  
 *Deliverable:*  
 - Jupyter notebook containing clear visualizations and explanations: **Exploratory_Data_Analysis_on_Dataset.ipynb**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
@@ -16,6 +17,7 @@ It includes real-world data analysis, visualization and dashboard creation.
 *Tools Used:*  
 - Python (pandas, matplotlib, seaborn,skicit-learn)
 - Jupyter Notebook
+  
 *Deliverable:*  
 - Jupyter notebook containing clear visualizations and cluster plots: **Customer_Segmentation_using_Clustering.ipynb**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
