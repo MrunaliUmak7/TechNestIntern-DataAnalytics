@@ -1,34 +1,28 @@
 # Technest Data Analytics Internship
 
 This repository contains my submissions for the TechNest Data Analytics Internship program. All analyses are based on the provided **Retail Sales Analysis dataset.csv**.
+It includes real-world data analysis, visualization and dashboard creation.
 
-##  Task 1: Exploratory Data Analysis (EDA) on Retail Dataset
-
-*Objective:*
-- Understand and summarize the structure of the raw retail sales data.
-- Identify sales trends, patterns, and seasonality using graphs.
-- Present key KPIs: total sales, revenue per category, and average order value.
-
+##  Task1: Exploratory Data Analysis on Retail Dataset
 *Tools Used:*  
 - Python (pandas, matplotlib, seaborn)
 - Jupyter Notebook
-
+  
 *Deliverable:*  
 - Jupyter notebook containing clear visualizations and explanations: **Exploratory_Data_Analysis_on_Dataset.ipynb**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
+- Data Cleaning: **Cleaned Dataset.csv**
+- Summary: Sales trends,seasonal patterns,KPI(total sales,revenue,AOV)
 
-## Key KPIs Covered
-
-- Total Sales
-- Revenue per Category
-- Average Order Value
-
-## Graphs Contains
-
--Customer Age Distribution
--Total Sales per Month
--Total Sales per Category
--Seasonal Sales Patterns
+##  Task2: Customer Segmentation using Clustering(K-Means)
+*Tools Used:*  
+- Python (pandas, matplotlib, seaborn, skicit-learn)
+- Jupyter Notebook
+  
+*Deliverable:*  
+- Jupyter notebook containing clear visualizations and cluster plots: **Customer_Segmentation_using_Clustering.ipynb**
+- Dataset Used: **Retail Sales Analysis dataset.csv**
+- Summary: K-means Clustering to identify customers types and strategy suggestions.
 
 ## Author
 Mrunali Umak
