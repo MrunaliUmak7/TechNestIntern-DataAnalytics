@@ -30,7 +30,7 @@ It includes real-world data analysis, visualization and dashboard creation.
 *Deliverable:*  
 - A fully fundamental Excel Workbook that includes cleaned, processed data, KPI and data analysis sheet: **Retail_Sales_Analysis_Dashboard**
 - Dataset Used: **Retail Sales Analysis dataset.csv**
-- Summary: KPI, Monthly trend, Donut Charts , Tree Map with Slicer and Timeline.
+- Summary: KPI, Monthly trend, Donut Charts , Tree Map with Slicer and Timeline for dynamic sales insights.
 
 ## Author
 Mrunali Umak
